@@ -1,7 +1,7 @@
 {
-    "status":true,
-    "status_code":1,
-    "message":"Response got successfully",
+    "status": true,
+    "status_code": 1,
+    "message": "Response got successfully",
     "data": [
         {
             "name": "Ashirbad Imanuel Sundar",
