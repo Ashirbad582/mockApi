@@ -1,6 +1,6 @@
 {
     "response": {
-        "status": 1,
+        "status": true,
         "status_code": "1",
         "message": "Response got successfully",
         "data": [
