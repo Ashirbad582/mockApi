@@ -39,7 +39,7 @@
                 "gan": "1",
                 "gat": "2",
                 "voted": "VOTED",
-                "isImportant": "Important"
+                "isImportant": "Important" 
             }
         ]
     }
